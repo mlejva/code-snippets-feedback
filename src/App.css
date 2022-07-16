@@ -1,0 +1,11 @@
+html,
+body {
+  color: white;
+  background: black;
+  overflow: hidden !important;
+}
+
+.prism-code {
+  overflow: hidden !important;
+  padding: 20px;
+}
